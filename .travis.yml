@@ -1,3 +1,4 @@
+arch: ppc64le
 language: generic
 sudo: required
 dist: trusty
